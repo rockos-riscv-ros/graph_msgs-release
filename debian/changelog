@@ -1,0 +1,29 @@
+ros-jazzy-graph-msgs (0.2.0-6trixie) trixie; urgency=high
+
+  * Port to ROS 2 (#5 <https://github.com/PickNikRobotics/graph_msgs/issues/5>)
+  * Contributors: Dave Coleman, Henning Kayser, Tyler Weaver, Vatan Aksoy Tezer
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Mon, 13 Sep 2021 16:00:00 -0000
+
+ros-jazzy-graph-msgs (0.1.0-6trixie) trixie; urgency=high
+
+  * Added header / timestamp
+  * Contributors: Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Thu, 23 Oct 2014 16:00:00 -0000
+
+ros-jazzy-graph-msgs (0.0.3-6trixie) trixie; urgency=high
+
+  * Release to indigo
+  * Spelling fix
+  * Contributors: Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Thu, 29 May 2014 16:00:00 -0000
+
+ros-jazzy-graph-msgs (0.0.2-6trixie) trixie; urgency=high
+
+  * Initial commit
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Sun, 06 Apr 2014 16:00:00 -0000
+
+
